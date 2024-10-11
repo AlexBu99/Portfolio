@@ -9,9 +9,9 @@
 
 ## Инструменты
 
-- pandas 
+- pandas
+- seaborn
 - matplotlib
-- sklearn
 - phik
 - pyspark
 
