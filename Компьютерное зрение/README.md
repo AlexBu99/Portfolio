@@ -12,7 +12,7 @@
 - pandas
 - matplotlib
 - seaborn
-- Keras
+- keras
 
  
 ## Общий вывод
